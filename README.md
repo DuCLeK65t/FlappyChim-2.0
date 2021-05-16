@@ -7,12 +7,14 @@
 ## 💡 About
 A Remake of Dong Nguyen's hit game in 2013 <br>
 
+Contact and Support:
 
-<br>
+<a href="https://www.facebook.com/ldukk1430"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a><br>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br>
+llduc.312@gmail.com<br><br>
 
 ## 📥 Installation
-Download at: <a href="https://github.com/20021515/FlappyChim-2.0/archive/refs/tags/1.4.3.zip">`here`</a>
-<br><br>
+Download at: <a href="https://github.com/20021515/FlappyChim-2.0/archive/refs/tags/1.4.3.zip">`here`</a><br><br>
 
 ## 💌 Credits
 Special thanks to:
@@ -22,4 +24,5 @@ Special thanks to:
 - [**Lazy Foo' Productions**](https://lazyfoo.net/tutorials/SDL)
 
 ---
-<h1 align="center">Made by <i>404 Not Found!</i></a></h1>
+<h1 align="center">Made by <i>404 Not Found!</i></h1>
+<p align="center"><i>Since 05/2021</i></p>
