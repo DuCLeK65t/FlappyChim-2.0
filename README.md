@@ -21,5 +21,5 @@ Special thanks to:
 - [**Lazy Foo' Productions**](https://lazyfoo.net/tutorials/SDL)
 
 ---
-<h1 align="center">Made by <i>404 Not Found!</i></h1>
+<h1 align="center">Made by <i>404 Not Found!</i> with ♥</h1>
 <p align="center"><i>05/2021</i></p>
