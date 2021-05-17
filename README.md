@@ -8,7 +8,7 @@
 - 🖥️ Version for Computer
 
 ## 📥 Installation
-[![Downloads](https://img.shields.io/github/downloads/20021515/FlappyChim-2.0/total?color=%2399CC00&style=for-the-badge)](https://github.com/20021515/FlappyChim-2.0/files/6492290/FlappyChim-2.0-setup.zip)
+[![Downloads](https://img.shields.io/github/downloads/20021515/FlappyChim-2.0/total?color=%2399CC00&style=for-the-badge)](https://github.com/20021515/FlappyChim-2.0/files/6493813/FlappyChim-2.0-setup.zip)
 
 ## 📞 Contact
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ldukk1430) <br>
