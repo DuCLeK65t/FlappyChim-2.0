@@ -25,4 +25,4 @@ Special thanks to:
 
 ---
 <h1 align="center">Made by <i>404 Not Found!</i></h1>
-<p align="center"><i>Since 05/2021</i></p>
+<p align="center"><i>05/2021</i></p>
