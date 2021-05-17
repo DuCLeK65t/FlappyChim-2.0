@@ -1,13 +1,14 @@
-<h1 align="center"><code>FlappyChim 2.0</code></h1>
+<h1 align="center"><code>🎮 FlappyChim 2.0</code></h1>
 <p align="center">UET - <i>Assignment about game</i></p>
 
 <p align="center"><a href="https://github.com/20021515/FlappyChim-2.0"><img width="40%" src="https://user-images.githubusercontent.com/71594219/118405179-bbfee980-b6a0-11eb-91fc-4ae693335381.png"></a></p>
 <p align="center"><a href="https://github.com/20021515/FlappyChim-2.0"><img src="https://img.shields.io/github/downloads/20021515/FlappyChim-2.0/total?color=%2399CC00&label=Dowloads"></a> <a href="https://github.com/20021515/FlappyChim-2.0"><img src="https://img.shields.io/github/size/20021515/FlappyChim-2.0/setup.exe?color=%2399CC00&label=Setup%20file"></a>
 
 ## 💡 About
-A Remake of Dong Nguyen's hit game in 2013 <br>
+- A Remake of Dong Nguyen's hit game in 2013 <br>
+- Version for Computer 🖥️ <br><br>
 
-Contact and Support:
+- Contact and Support:
 
 <a href="https://www.facebook.com/ldukk1430"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a><br>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br>
