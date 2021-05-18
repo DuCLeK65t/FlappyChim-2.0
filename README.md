@@ -5,8 +5,7 @@
 
 ## 💡 About
 - 🔧 A remake of Dong Nguyen's hit game in 2013
-- 🖥️ Version for Computer
-<br>
+- 🖥️ Version for Computer<br>
 - Using library SDL
 - 3 months with more than 1500 lines of code 😓
 
