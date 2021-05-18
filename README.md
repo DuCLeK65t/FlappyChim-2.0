@@ -7,6 +7,9 @@
 - 🔧 A remake of Dong Nguyen's hit game in 2013
 - 🖥️ Version for Computer
 
+- Using library SDL
+- 3 months with more than 1500 lines of code 😓
+
 ## 📥 Installation
 [![Downloads](https://img.shields.io/github/downloads/20021515/FlappyChim-2.0/total?color=%2399CC00&style=for-the-badge)](https://github.com/20021515/FlappyChim-2.0/files/6493813/FlappyChim-2.0-setup.zip)
 
