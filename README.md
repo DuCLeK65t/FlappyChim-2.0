@@ -43,7 +43,7 @@ llduc.312@gmail.com
 
 ## 💌 Credits
 Special thanks to:
-- [**NNBnh**](https://github.com/NNBnh) for [`flappybirdart`](https://github.com/NNBnh/flappybirdart)
+- [**NNB**](https://github.com/NNBnh) for [`flappybirdart`](https://github.com/NNBnh/flappybirdart)
 - [**Askari Hassan**](https://www.youtube.com/channel/UC2Ab_b49frkmgFJajOvtkpw/featured)
 - [**Lazy Foo' Productions**](https://lazyfoo.net/tutorials/SDL)
 
