@@ -1,6 +1,6 @@
 <h1 align="center">
-    🎮 FlappyChim 2.0
     <img width="4%" src="https://user-images.githubusercontent.com/71594219/118890082-460cb380-b928-11eb-8124-40dca15c13c0.png">
+    FlappyChim 2.0 🎮
 </h1>
 <p align="center">UET - <i>Assignment about game</i></p>
 <p align="center"><a href="https://github.com/20021515/FlappyChim-2.0"><img width="40%" src="https://user-images.githubusercontent.com/71594219/118405179-bbfee980-b6a0-11eb-91fc-4ae693335381.png"></a></p>
@@ -15,7 +15,7 @@
 </p>
 
 ## 📥 Installation
-<b>Click here to download the installation file:</b>
+<b>Click here to download:</b>
 
 <p align="center">
     <a href="https://github.com/20021515/FlappyChim-2.0/files/6493813/FlappyChim-2.0-setup.zip">
