@@ -21,7 +21,7 @@
 - ⏳ 3 months with more than 1500 lines of code 😓
 
 ## 📥 Installation
-Click here to download the installation file:
+<b>Click here to download the installation file:</b>
 
 <p align="center">
     <a href="https://github.com/20021515/FlappyChim-2.0/files/6493813/FlappyChim-2.0-setup.zip">
@@ -50,5 +50,8 @@ Special thanks to:
 - [**Lazy Foo' Productions**](https://lazyfoo.net/tutorials/SDL)
 
 ---
-<h1 align="center">Made by <i>404 Not Found!</i> with ❤️</h1>
+<h1 align="center">
+        <img width="6%" src="https://user-images.githubusercontent.com/71594219/118922831-dcf76100-b964-11eb-8348-ee702ddf7064.png">
+        Made by <i>404 Not Found!</i> with ❤️
+</h1>
 <p align="center"><i>2021</i></p>
