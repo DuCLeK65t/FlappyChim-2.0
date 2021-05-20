@@ -14,12 +14,6 @@
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/20021515/FlappyChim-2.0?style=for-the-badge">
 </p>
 
-## 💡 About
-- 🔧 A remake of Dong Nguyen's hit game in 2013
-- 🖥️ Version for Computer <br><br>
-- 📚 Using library SDL
-- ⏳ 3 months with more than 1500 lines of code 😓
-
 ## 📥 Installation
 <b>Click here to download the installation file:</b>
 
@@ -34,6 +28,12 @@
       <img width="6%" src="https://user-images.githubusercontent.com/71594219/118887925-3770cd00-b925-11eb-8643-0a634fa5c80e.png">
     </a>
 </p>
+
+## 💡 About
+- 🔧 A remake of Dong Nguyen's hit game in 2013
+- 🖥️ Version for Computer <br><br>
+- 📚 Using library SDL
+- ⏳ 3 months with more than 1500 lines of code 😓
 
 ## 📞 Contact
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ldukk1430)
@@ -52,6 +52,6 @@ Special thanks to:
 ---
 <h1 align="center">
         <img width="6%" src="https://user-images.githubusercontent.com/71594219/118922831-dcf76100-b964-11eb-8348-ee702ddf7064.png">
-        Made by <i>404 Not Found!</i> with ❤️
+        Made by <i>404 Not Found!</i>
 </h1>
 <p align="center"><i>2021</i></p>
