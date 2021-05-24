@@ -16,7 +16,7 @@
 <b>Click here to download:</b>
 
 <p align="center">
-    <a href="https://github.com/20021515/FlappyChim-2.0/releases" onclick="window.open('https://github.com/20021515/FlappyChim-2.0/releases/download/1.4.3/FlappyChim-2.0-setup.msi'); return true;">
+    <a href="https://github.com/20021515/FlappyChim-2.0/releases" onclick="window.open('https://github.com/20021515/FlappyChim-2.0/releases/download/1.4.3/FlappyChim-2.0-setup.msi'); return true;" target="_blank">
             <img width="5%" src="https://user-images.githubusercontent.com/71594219/118887855-2031df80-b925-11eb-8b92-dff2d8b2b6c0.png">
             <img width="5%" src="https://user-images.githubusercontent.com/71594219/118887845-1dcf8580-b925-11eb-9c9d-66215da5eed5.png">
             <img width="5%" src="https://user-images.githubusercontent.com/71594219/118887832-1b6d2b80-b925-11eb-909c-0b76596364a0.png">
