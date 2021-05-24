@@ -4,12 +4,10 @@
 </h1>
 <p align="center">UET - <i>Assignment about game</i></p>
 <p align="center"><a href="https://github.com/20021515/FlappyChim-2.0"><img width="40%" src="https://user-images.githubusercontent.com/71594219/118405179-bbfee980-b6a0-11eb-91fc-4ae693335381.png"></a></p>
-<p align="center">
-    <img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
-    <img src="https://forthebadge.com/images/badges/compatibility-betamax.svg">
-</p>
+<br>
 <p align="center">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/20021515/FlappyChim-2.0?style=for-the-badge">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/20021515/FlappyChim-2.0?style=for-the-badge">
 </p>
@@ -31,7 +29,8 @@
 
 ## 💡 About
 - 🔧 A remake of Dong Nguyen's hit game in 2013
-- 🖥️ Version for Computer <br><br>
+- 🖥️ Version for PC 
+<br><br>
 - 📚 Using library SDL
 - ⏳ 3 months with more than 1600 lines of code 😓
 
