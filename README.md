@@ -18,11 +18,11 @@
 <b>Click here to download:</b>
 
 <p align="center">
-    <a href="https://github.com/20021515/FlappyChim-2.0/files/6493813/FlappyChim-2.0-setup.zip">
+    <a href="https://github.com/20021515/FlappyChim-2.0/releases">
       <img width="5%" src="https://user-images.githubusercontent.com/71594219/118887855-2031df80-b925-11eb-8b92-dff2d8b2b6c0.png">
       <img width="5%" src="https://user-images.githubusercontent.com/71594219/118887845-1dcf8580-b925-11eb-9c9d-66215da5eed5.png">
       <img width="5%" src="https://user-images.githubusercontent.com/71594219/118887832-1b6d2b80-b925-11eb-909c-0b76596364a0.png">
-      <img alt="GitHub issues" src="https://img.shields.io/github/downloads/20021515/FlappyChim-2.0/total?color=%2399CC00&style=for-the-badge">
+      <img src="https://img.shields.io/github/downloads/20021515/FlappyChim-2.0/total?color=%23FFFF66&style=for-the-badge" alt="Install">
       <img width="6%" src="https://user-images.githubusercontent.com/71594219/118887912-3344af80-b925-11eb-9015-1ac67936530c.png">
       <img width="6%" src="https://user-images.githubusercontent.com/71594219/118887918-350e7300-b925-11eb-8faf-57225cf61811.png">
       <img width="6%" src="https://user-images.githubusercontent.com/71594219/118887925-3770cd00-b925-11eb-8643-0a634fa5c80e.png">
@@ -33,7 +33,7 @@
 - 🔧 A remake of Dong Nguyen's hit game in 2013
 - 🖥️ Version for Computer <br><br>
 - 📚 Using library SDL
-- ⏳ 3 months with more than 1500 lines of code 😓
+- ⏳ 3 months with more than 1600 lines of code 😓
 
 ## 📞 Contact
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ldukk1430)
