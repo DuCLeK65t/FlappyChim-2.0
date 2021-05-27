@@ -6,14 +6,14 @@
 <p align="center"><a href="https://github.com/20021515/FlappyChim-2.0"><img width="40%" src="https://user-images.githubusercontent.com/71594219/118405179-bbfee980-b6a0-11eb-91fc-4ae693335381.png"></a></p>
 <br>
 <p align="center">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/github/contributors/20021515/FlappyChim-2.0?style=for-the-badge">
     <img src="https://img.shields.io/github/issues/20021515/FlappyChim-2.0?style=for-the-badge">
 </p>
 
 ## 📥 Installation
-<b>Click here to download:</b>
+Click here to <b>DOWNLOAD</b>:
 
 <p align="center">
     <a href="https://github.com/20021515/FlappyChim-2.0/releases">
