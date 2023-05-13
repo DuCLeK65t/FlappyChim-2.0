@@ -55,6 +55,6 @@ Special thanks to:
 ---
 <h1 align="center">
         <img width="6%" src="https://user-images.githubusercontent.com/71594219/118922831-dcf76100-b964-11eb-8348-ee702ddf7064.png">
-        Made by <i>404 Not Found!</i>
+        Made by <i>Duc Le!</i>
 </h1>
 <p align="center"><i>May 2021</i></p>
