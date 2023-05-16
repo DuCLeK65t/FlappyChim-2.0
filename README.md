@@ -44,7 +44,7 @@ llduc.312@gmail.com
 ```
 
 ## ♻️ Remake
-- [**Go_Go__**](https://github.com/22026559NguyenThuyQuynh/Go_Go__) by NguyenThuyQuynh
+- [**???**]
 
 ## 💌 Credits
 Special thanks to:
