@@ -44,7 +44,7 @@ llduc.312@gmail.com
 ```
 
 ## ♻️ Remake
-- [**???**]
+- [**introvertkid**](https://github.com/introvertkid/Chjm)
 
 ## 💌 Credits
 Special thanks to:
